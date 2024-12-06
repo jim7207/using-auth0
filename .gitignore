@@ -1,0 +1,4 @@
+.env
+auth_config.json
+node_modules/
+dist/
